@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**IvanDragacevac/IvanDragacevac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior blockchain enginer and Defi expert.
+I provide the smart and robustic solidity code and defi project.
 
-Here are some ideas to get you started:
+## About my expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create smart contract and provide full defi project with smart and clean frontend. This includes:
+  - 🤖 Blockchain Stack 
+Solidity, Truffle, OpenZeppelin, Hardhat, Remix, Web3
+  - 👥 Platfoms
+Ethereum, Binance Smart Chain (BSC), Avalanche (AVAX), Polygon (Matic), Fantom, and etc
+  - ⏱ Smart Contract Development
+BEP20, ERC20, TRC20, ERC777, ERC223, ERC721, ERC1155
+  - ⚙️ Defi clone
+Pankcakeswap, Sushiswap, Tomb Finance, Titano, Safuu, Olympus, Fantasm, etc.
+  - 📋 React and Typescript
+  - ✨ And much more 🙂
