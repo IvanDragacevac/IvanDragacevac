@@ -13,6 +13,6 @@ I create smart contract and provide full defi project with smart and clean front
   - 🍍 Smart Contract Development
 ( BEP20, ERC20, TRC20, ERC777, ERC223, ERC721, ERC1155 )
   - 🌽 Defi clone
-( Pankcakeswap, Sushiswap, Tomb Finance, Titano, Safuu, Olympus, Fantasm, etc. )
+( Pankcakeswap, Sushiswap, Tomb Finance, Titano, Safuu, Olympus, Fantasm, etc )
   - 🍆 React and Typescript
   - ✨ And much more 🙂
