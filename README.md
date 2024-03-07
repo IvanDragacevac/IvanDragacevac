@@ -7,7 +7,7 @@ I provide the smart and robustic solidity code and defi project.
 
 I create smart contract and provide full defi project with smart and clean frontend. This includes:
   - 🍉 Blockchain Stack 
-( Solidity, Truffle, OpenZeppelin, Hardhat, Remix, Web3 )
+( Solana, Rust, Solidity, Truffle, OpenZeppelin, Hardhat, Remix, Web3 )
   - 🍌 Platfoms
 ( Ethereum, Binance Smart Chain (BSC), Avalanche (AVAX), Polygon (Matic), Fantom, and etc )
   - 🍍 Smart Contract Development
